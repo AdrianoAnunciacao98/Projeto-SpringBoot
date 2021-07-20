@@ -1,4 +1,4 @@
-insert into usuario(nome, email, senha) values('Aluno', 'aluno@email.com', '123456');
+insert into usuario(nome, email, senha) values('Aluno', 'aluno@email.com', '$2a$10$80bH/QdF8j.2S/bfLbq3i.PchVZHooDTg87RH7tpXdAmap41kemzG');
 
 insert into curso(nome, categoria) values('Spring Boot', 'Programação');
  insert into curso(nome, categoria) values('HTML 5', 'Front-end');
